@@ -50,7 +50,7 @@
     {
       "type": "mixed",
       "listen": "0.0.0.0",
-      "listen_port": 7892,
+      "listen_port": 7890,
       "sniff": true,
       "users": []
     }
